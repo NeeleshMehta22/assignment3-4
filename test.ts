@@ -1,8 +1,8 @@
 //enum for diferent users
 enum role{
-    Superadmin="Superadmin",
-    Admin="Admin",
-    Subscriber ="Subscriber"
+    Superadmin,
+    Admin,
+    Subscriber 
 }
 //json data formatted as class model
 const Users:users[]=[
